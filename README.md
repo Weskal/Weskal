@@ -2,7 +2,7 @@
 
 # Gabriel Paliato
 ### Data Engineer · Data Analyst · Analytics Engineer
-**São José dos Campos, BR**
+**Sao Paulo, Brazil**
 
 </div>
 
