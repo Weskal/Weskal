@@ -84,7 +84,7 @@ Currently deep into **real-time data engineering**: Kafka, Airflow, dbt, Snowfla
 
 <div align="center">
 
-Open to data focused positions
+Open to data & automation focused positions
 
 [![LinkedIn](https://img.shields.io/badge/Let's_talk!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-paliato-49467b211/)
 
