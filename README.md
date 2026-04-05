@@ -87,13 +87,13 @@ Currently deep into **real-time data engineering**: Kafka, Airflow, dbt, Snowfla
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 <div align="center">
 
-Aberto a oportunidades em **Engenharia de Dados** e **Analytics Engineering**.
+Open to data focused positions
 
-[![LinkedIn](https://img.shields.io/badge/Vamos_conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-paliato-49467b211/)
+[![LinkedIn](https://img.shields.io/badge/Let's_talk!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-paliato-49467b211/)
 
 </div>
 
