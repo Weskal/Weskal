@@ -74,13 +74,6 @@ Currently deep into **real-time data engineering**: Kafka, Airflow, dbt, Snowfla
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Weskal&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=8957e5&text_color=8b949e&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weskal&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Weskal&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=8957e5&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
 </div>
