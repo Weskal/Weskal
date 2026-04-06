@@ -10,13 +10,15 @@
 
 ## 👾 About Me
 
-I'm a **Backend Engineer transitioning fully into Data Engineering** — and the path wasn't accidental.
+I'm a Data Engineer with a strong background in both data and backend engineering, and that combination wasn't accidental.
 
-It started with **Data Analysis**: building ETL/ELT pipelines, working with large datasets, making data make sense for business decisions. That sharpened my SQL, my modeling instincts, and my obsession with data quality.
+It started with **Data Analysis**: building ETL/ELT pipelines, Dashboards, KPIs, working with large datasets, making data make sense for business decisions. That sharpened my SQL, my modeling instincts, and my obsession with data quality.
 
 Then came **Backend Engineering**: production systems, async workflows, service integrations. I learned what it means to build things that *actually run* — at scale, reliably, in the real world.
 
 Now I'm bringing both worlds together. I build **data pipelines and processing systems** that don't just work in theory — they run in production, handle failures gracefully, and scale when things get serious.
+
+That backend foundation changes how I approach data engineering. I understand how systems produce data, which makes me better at building the pipelines that consume it
 
 Currently deep into **real-time data engineering**: Kafka, Airflow, dbt, Snowflake, AWS. If it moves data and does it reliably, I want to understand it and build with it.
 
