@@ -1,7 +1,7 @@
 <div align="center">
 
 # Gabriel Paliato
-### Data Engineer · Data Analyst · Analytics Engineer
+### Data Engineer · Data Analyst · Backend Engineer
 **Sao Paulo, Brazil**
 
 </div>
